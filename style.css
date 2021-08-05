@@ -1,0 +1,62 @@
+body{
+
+    background-image:radial-gradient(rgba(19, 53, 77, 0.815),rgba(25, 61, 90, 0.801)),url("https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2020/08/10-Ways-AI-Is-Accelerating-DevOps-FINAL-768x512.jpg");
+    background-size: cover;
+    background-position:fixed;
+   
+  }
+  #ds{
+    margin-left:-4px;
+    font-size:3rem;
+  }
+  h1{
+    color:White;
+    font-size:4rem;
+    text-align:center;
+    margin-top:-8px;
+  }
+  span{
+    font-size:bold;
+  }
+  img{
+    margin-top:5px;
+    image-radius:5%;
+    float:left;
+    width:6.4rem;
+    height:65%;
+    margin-right:5px;
+    padding-right:2rem;
+  }
+  .big{
+   font-size:3.7rem;
+    color:white;
+  }
+  hr{
+    background-color:white;
+    margin-top:1.5rem;
+  }
+  .h2{
+    margin-left:5px;
+    font-size:27px;
+    color:white;
+    font-weight:bold;
+  }
+  li{
+    font-size:21px;
+  color:white;
+    font-style:italic;
+    font-weight:bold;
+    
+  }
+  th{
+   
+    text-align:left;
+  }
+  table{
+    margin-top:-10px;
+    width:95%;
+    margin-left:7rem;
+  }
+  #sm{
+    font-size:18px;
+  }
